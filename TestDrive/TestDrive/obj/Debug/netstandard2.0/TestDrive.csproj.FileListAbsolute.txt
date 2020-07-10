@@ -1,0 +1,12 @@
+D:\Projects\VisualStudio2017\Alura.Xamarin\TestDrive\TestDrive\TestDrive\bin\Debug\netstandard2.0\TestDrive.deps.json
+D:\Projects\VisualStudio2017\Alura.Xamarin\TestDrive\TestDrive\TestDrive\bin\Debug\netstandard2.0\TestDrive.dll
+D:\Projects\VisualStudio2017\Alura.Xamarin\TestDrive\TestDrive\TestDrive\bin\Debug\netstandard2.0\TestDrive.pdb
+D:\Projects\VisualStudio2017\Alura.Xamarin\TestDrive\TestDrive\TestDrive\obj\Debug\netstandard2.0\TestDrive.csprojAssemblyReference.cache
+D:\Projects\VisualStudio2017\Alura.Xamarin\TestDrive\TestDrive\TestDrive\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Projects\VisualStudio2017\Alura.Xamarin\TestDrive\TestDrive\TestDrive\obj\Debug\netstandard2.0\Views\ListagemView.xaml.g.cs
+D:\Projects\VisualStudio2017\Alura.Xamarin\TestDrive\TestDrive\TestDrive\obj\Debug\netstandard2.0\TestDrive.csproj.CoreCompileInputs.cache
+D:\Projects\VisualStudio2017\Alura.Xamarin\TestDrive\TestDrive\TestDrive\obj\Debug\netstandard2.0\TestDrive.AssemblyInfoInputs.cache
+D:\Projects\VisualStudio2017\Alura.Xamarin\TestDrive\TestDrive\TestDrive\obj\Debug\netstandard2.0\TestDrive.AssemblyInfo.cs
+D:\Projects\VisualStudio2017\Alura.Xamarin\TestDrive\TestDrive\TestDrive\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Projects\VisualStudio2017\Alura.Xamarin\TestDrive\TestDrive\TestDrive\obj\Debug\netstandard2.0\TestDrive.dll
+D:\Projects\VisualStudio2017\Alura.Xamarin\TestDrive\TestDrive\TestDrive\obj\Debug\netstandard2.0\TestDrive.pdb
